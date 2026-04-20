@@ -1,4 +1,4 @@
-//Wprowadzenie zmian w kodzie
+//Wprowadzenie zmian w kodzie w celu nowych obliczeń MPF
 
 #include <iostream>
 #include <string>
